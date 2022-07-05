@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a front end web developer with a passion for building dynamic and user friendly websites. 
+I have a passion for creating clean and modern websites and apps.  As a full stack developer I want to help the world move forward with technology. 
 
 <!--
 **cachehunter/cachehunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
